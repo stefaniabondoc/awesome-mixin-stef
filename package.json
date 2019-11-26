@@ -7,14 +7,14 @@
     "@storybook/addon-actions": "^5.2.6",
     "@storybook/addon-links": "^5.2.6",
     "@storybook/addons": "^5.2.6",
-    "@storybook/react": "^5.2.6",
-    "babel-loader": "^8.0.6",
-    "react-scripts": "0.8.4"
+    "@storybook/react": "^5.2.6"
   },
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.15",
+    "babel-loader": "^8.0.6",
+    "react-scripts": "0.8.4"
   },
   "scripts": {
     "start": "react-scripts start",
