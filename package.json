@@ -9,7 +9,7 @@
     "@storybook/addons": "^5.2.6",
     "@storybook/react": "^5.2.6",
     "babel-loader": "^8.0.6",
-    "react-scripts": "0.8.4"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "react": "^15.4.2",
